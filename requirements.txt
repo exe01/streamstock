@@ -1,0 +1,9 @@
+twitch-python==0.0.19
+moviepy==1.0.3
+acrcloud==14.10.2020
+bs4==0.0.1
+vosk==0.3.17
+streamlink==2.0.0
+google-api-python-client==1.12.8
+oauth2client
+six==1.13.0
